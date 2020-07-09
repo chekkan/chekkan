@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋🏽
+
+I am a Software Craftsperson who is passionate about learning and community 👨🏽‍💻. I haven't done much contribution to open source but would love to. 
+
+Find me around the web:
+  - 🐦 Learning in public on [Twitter](https://twitter.com/chekkanz)
+  - 💼 Sharing updates on [LinkedIn](https://linkedin.com/in/devhhb/)
+  - 🖋 Writing on [chekkan.com](https://chekkan.com)
 
 <!--
 **chekkan/chekkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

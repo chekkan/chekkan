@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-I am a Software Craftsperson who is passionate about learning and community 👨🏽‍💻. I haven't done much contribution to open source but would love to. 
+I am a Software Craftsperson who is passionate about learning and community 👨🏽‍💻.
 
 Find me around the web:
   - 🐦 Learning in public on [Twitter](https://twitter.com/chekkanz)
